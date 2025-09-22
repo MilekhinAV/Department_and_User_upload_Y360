@@ -1,0 +1,6 @@
+nickname,first,last,middle,position,language,timezone,password,passwordChangeRequired,dept_external_id,externalId
+iivanov,Иван,Иванов,Сергеевич,System Administrator,ru,Europe/Moscow,srr%Q+gTK,true,IT-OPS,HR-12345
+ppetrov,Павел,Петров,Евгеньевич,DevOps Engineer,ru,Europe/Moscow,j{(5^#)F,true,IT-OPS,HR-12346
+soxana,Оксана,Соколова,Константинович,Software Engineer,ru,Europe/Moscow,b|-^[:^qr{,true,IT-DEV,HR-12347
+kvasilev,Кирилл,Васильев,Петрович,Head of Sales,ru,Europe/Moscow,nWK!rgZKGz,true,SALES,HR-20001
+apavlova,Анна,Павлова,Александрович,HR Manager,ru,Europe/Moscow,;I_BuI<[x6,true,HR,HR-30001

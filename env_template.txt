@@ -1,0 +1,9 @@
+# Yandex 360 API Configuration
+# Copy this file to .env and fill in your actual values
+
+# Your organization ID (can be found in Yandex 360 admin panel)
+ORG_ID=your_organization_id_here
+
+# Your OAuth token or Passport token
+# Get this from Yandex 360 admin panel or OAuth flow
+TOKEN=your_oauth_or_passport_token_here

@@ -1,0 +1,7 @@
+external_id,name,parent_external_id,label,description
+ROOT,Все сотрудники,,,
+IT,IT,ROOT,it,IT department
+IT-OPS,Operations,IT,it-ops,Ops team
+IT-DEV,Development,IT,it-dev,Dev team
+SALES,Sales,ROOT,sales,Sales department
+HR,HR,ROOT,hr,Human Resources
